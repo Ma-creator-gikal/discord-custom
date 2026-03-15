@@ -1,0 +1,10 @@
+{
+  "name": "Custom Discord Background",
+  "version": "1.0",
+  "description": "Your personal Discord background image",
+  "author": "You",
+  "targets": [
+    "https://discord.com/*"
+  ],
+  "css": ["style.css"]
+}
