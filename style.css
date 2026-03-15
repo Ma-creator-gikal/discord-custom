@@ -1,0 +1,14 @@
+/* Your custom Discord background */
+body {
+  background: url("https://i.postimg.cc/vZk3Hkwm/thegoats2-ezgif-com-webp-to-jpg-converter.jpg") !important;
+  background-size: cover !important;
+  background-position: center !important;
+}
+
+/* Optional: make panels slightly transparent so the image shows */
+[class*="appMount"] {
+  background: transparent !important;
+}
+[class*="container"] {
+  background: transparent !important;
+}
